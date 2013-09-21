@@ -1,0 +1,10 @@
+(MSC service thread 1-3) JNDI bindings for session bean named HelloUserBean in deployment unit deplo
+yment "ActionBazaar.jar" are as follows:
+
+        java:global/ActionBazaar/HelloUserBean!com.homemade.solutions.chap1.model.HelloUser
+        java:app/ActionBazaar/HelloUserBean!com.homemade.solutions.chap1.model.HelloUser
+        java:module/HelloUserBean!com.homemade.solutions.chap1.model.HelloUser
+        java:jboss/exported/ActionBazaar/HelloUserBean!com.homemade.solutions.chap1.model.HelloUser
+        java:global/ActionBazaar/HelloUserBean
+        java:app/ActionBazaar/HelloUserBean
+        java:module/HelloUserBean
